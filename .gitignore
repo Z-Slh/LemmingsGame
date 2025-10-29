@@ -1,0 +1,25 @@
+# Java compiled files
+*.class
+
+# Output directory
+bin/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# macOS
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.settings/
+.project
+.classpath
